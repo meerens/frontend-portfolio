@@ -21,6 +21,6 @@ Because I don't really like any of the platforms currently available, I decided 
 
 #### `Personal Website`<br>
 Final project for the SheCodes Responsive workshop. <br>
-[Link to Site](https://app.netlify.com/sites/meerens-shecodesportfolio)
+[Link to Site](https://meerens-shecodesportfolio.netlify.app/)
 
  
